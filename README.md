@@ -15,15 +15,15 @@ All LLMs that are developed were created and work in essentially the exact same 
 -	All use a type of neural network that uses transformer architecture, 
 -	Development ideas like pretraining and fine-tuning.
 
-Meta Llama 3.1 with 405B, is probably the world’s largest and most capable openly available foundation model, and there is free downloadable version of Ollama that can be downloaded and installed on your machine and worked on without even having internet connectivity.
+Meta Llama 3.1 with 405B, is probably the world’s largest and most capable openly available foundation model, and there is free downloadable version of OLlama that can be downloaded and installed on your machine and worked on without even having internet connectivity.
 
 ## Business Activities
 
 * What is currently used technology and implementation ?
 
-  According to Meta : “When a user enters a text prompt in Llama 3.1 model, it attempts to predict the most plausible follow &mdash;on text using its neural network &mdash; a cascading algorithm with billions of variables (called "parameters") that's modeled after the human brain. By assigning different weights to all the different parameters, and throwing in a small bit of randomness, LLama 3.1 can generate incredibly human-like responses. “
+  According to Meta : “When a user enters a text prompt in Llama 3.1 model, it attempts to predict the most plausible follow &mdash;on text using its neural network &mdash; a cascading algorithm with billions of variables (called "parameters") that's modeled after the human brain. By assigning different weights to all the different parameters, and throwing in a small bit of randomness, Llama 3.1 can generate incredibly human-like responses. “
 
-LLama 3.1 offers 3 models, each tailored to different needs within the generative AI space:
+Llama 3.1 offers 3 models, each tailored to different needs within the generative AI space:
 
 * Llama 3.1 8B
   
@@ -71,7 +71,7 @@ Unlike closed models, Llama models are available to download. Companies can full
 
 ## Llama vs. GPT, Gemini,Claude Sonnet and other AI models: How do they compare?
 
-In [LLama 3.1 research paper](https://ai.meta.com/blog/meta-llama-3-1/), Meta's researchers compare the different models' performance on various benchmarks [multi-task language understanding](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu/)  and [ARC-challenge common snese logic test](https://paperswithcode.com/sota/common-sense-reasoning-on-arc-challenge)/) to a handful of equivalent open and proprietary models.
+In [Llama 3.1 research paper](https://ai.meta.com/blog/meta-Llama-3-1/), Meta's researchers compare the different models' performance on various benchmarks [multi-task language understanding](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu/)  and [ARC-challenge common snese logic test](https://paperswithcode.com/sota/common-sense-reasoning-on-arc-challenge)/) to a handful of equivalent open and proprietary models.
 
 &mdash;The 8B model was compared to Mistral 7B and Gemma 2 9B;
 
@@ -84,7 +84,7 @@ The evaluation showed that the smaller Llama models are competitive with closed 
 The evaluation was done on performance on over 150 benchmark datasets that span a wide range of languages. In addition, Meta performed extensive human evaluations that compare Llama 3.1 with competing models in real-world scenarios. This evaluation suggests that Llama 405B model is competitive with leading foundation models across a range of tasks, including GPT-4, GPT-4o, and Claude 3.5 Sonnet.
 
 
-## Significance of LLama 
+## Significance of Llama 
 
 Most of the LLMs that exist today like OpenAI's GPT-4o ,Google's Gemini or Anthropic's Claude are proprietary and closed source. Developers and companies can access them by their model API’s, but you can’t understand what is going on inside, they will be “a black box” that can be used and fine-tuned for each company’s needs. 
 Llama herd on the other hand is fully open, open-source technology and Meta has already published extensive details about how models were trained and the architecture they use.
@@ -119,4 +119,30 @@ Some of the possible applications include:
 •	Comprehensive Ecosystem Support: Llama 3.1 is available for download on Meta’s platform and Hugging Face, with deployment options across cloud, on-premises, and local environments, supported by key industry partners.
 
 •	Enhanced Safety and Community Collaboration: Llama 3.1 Includes new safety tools like Llama Guard 3 and Prompt Guard, with active support from community projects for optimized development and deployment.
+
+## Conclusion &mdash;Why Open-Source AI Is Good for the World
+
+In a letter accompanying [Llama 3.1 release](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/), CEO Mark Zuckerberg confirmed Meta's plans to keep Llama open:
+
+"I believe that open source is necessary for a positive AI future. AI has more potential than any other modern technology to increase human productivity, creativity, and quality of life—and to accelerate economic growth while unlocking progress in medical and scientific research. Open source will ensure that more people around the world have access to the benefits and opportunities of AI, that power isn't concentrated in the hands of a small number of companies, and that the technology can be deployed more evenly and safely across society."
+
+Llama 3.1 open-source technology is game-changer in the world of generative AI.
+
+With its advanced architecture, significant improvements in areas like reasoning, coding, multilingual capabilities with an impressive broad set of applicability, it's set to reshape industries like healthcare, customer service, and content creation. 
+
+Llama 3.1 offers a glimpse into the future of AI, where machines understand and generate human language with unprecedented accuracy and efficiency.
+
+
+## References
+•	[Llama 3.1 research paper](https://ai.meta.com/blog/meta-Llama-3-1/)
+
+•	[Path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+
+•	[Llama 3.1 explained](https://encord.com/blog/llama-3-1-explained/)
+
+•	[Llama 3.1](https://zapier.com/blog/llama-meta/)
+
+•	[Meta Llama 3.1](https://www.labellerr.com/blog/metas-llama-3-1/)
+
+
 
